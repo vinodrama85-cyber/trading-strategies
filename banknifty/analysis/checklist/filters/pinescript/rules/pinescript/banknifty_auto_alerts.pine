@@ -1,0 +1,30 @@
+//@version=5
+indicator("BankNifty Auto Alerts", overlay=true)
+
+// EMAs
+ema20 = ta.ema(close, 20)
+ema50 = ta.ema(close, 50)
+
+// Trend
+bullTrend = ema20 > ema50
+bearTrend = ema20 < ema50
+
+// Breakout levels
+prevHigh = ta.highest(high, 10)[1]
+prevLow  = ta.lowest(low, 10)[1]
+
+// Entry conditions
+buySignal  = bullTrend and close > prevHigh
+sellSignal = bearTrend and close < prevLow
+
+// Plot EMAs
+plot(ema20, color=color.green)
+plot(ema50, color=color.red)
+
+// Signals
+plotshape(buySignal, title="BUY", style=shape.labelup, text="BUY", color=color.green, textcolor=color.white, location=location.belowbar)
+plotshape(sellSignal, title="SELL", style=shape.labeldown, text="SELL", color=color.red, textcolor=color.white, location=location.abovebar)
+
+// Alerts
+alertcondition(buySignal, title="BUY ALERT", message="BANKNIFTY BUY | 5 MIN | Trend + Breakout")
+alertcondition(sellSignal, title="SELL ALERT", message="BANKNIFTY SELL | 5 MIN | Trend + Breakdown")
