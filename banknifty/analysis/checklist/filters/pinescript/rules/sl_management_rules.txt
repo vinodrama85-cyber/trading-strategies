@@ -1,0 +1,63 @@
+STOP LOSS MANAGEMENT – BANKNIFTY (5 MIN)
+
+RULE-1: CANDLE-BASED SL ONLY
+❌ Fixed points SL (20/30 pts) NOT allowed
+✅ SL always below/above structure candle
+
+BUY TRADE:
+- SL = Entry candle ka LOW ( + buffer )
+
+SELL TRADE:
+- SL = Entry candle ka HIGH ( + buffer )
+
+BUFFER:
+- 5–10 points (market volatility ke hisaab se)
+
+------------------------------------------------
+
+RULE-2: ENTRY CANDLE FILTER (MOST IMPORTANT)
+❌ Agar entry candle ka size > previous 5 candles avg
+→ NO TRADE (SL hunting candle hoti hai)
+
+------------------------------------------------
+
+RULE-3: HTF SL CONFIRMATION
+- 15 min chart par:
+  ❌ Agar SL level ke paas support/resistance ho
+  → Trade SKIP
+
+------------------------------------------------
+
+RULE-4: FIRST PULLBACK ENTRY
+❌ Direct breakout candle pe entry nahi
+✅ Breakout → small pullback → entry
+
+(Isse SL hit probability half ho jaati hai)
+
+------------------------------------------------
+
+RULE-5: TIME FILTER
+❌ 9:15 – 9:25 (noise)
+❌ 2:45 ke baad (random moves)
+
+✅ Best time:
+- 9:30 – 11:30
+- 1:45 – 2:30
+
+------------------------------------------------
+
+RULE-6: MAX SL PER DAY
+- Max 2 SL per day
+- 2 SL hit → TRADING STOP
+
+------------------------------------------------
+
+RULE-7: MOVE TO BREAKEVEN
+- Jab price = 1:1 RR
+→ SL = Entry price
+
+------------------------------------------------
+
+GOLDEN RULE:
+❗ SL hit = BAD TRADE nahi
+❗ Rule break = BAD TRADE
