@@ -1,0 +1,41 @@
+DAILY TRADING CHECKLIST – BANKNIFTY (5 MIN)
+
+DATE:
+DAY: (Mon / Tue / Wed / Thu / Fri)
+
+PRE-MARKET:
+[ ] Major support & resistance marked
+[ ] Previous day high & low marked
+[ ] HTF trend identified (15m / 30m)
+[ ] News / event checked
+
+MARKET CONDITION:
+[ ] Trending
+[ ] Sideways (NO TRADE)
+[ ] High volatility
+[ ] Low volume
+
+ENTRY CONDITIONS (ALL MUST BE YES):
+[ ] Liquidity sweep seen
+[ ] Breakout candle strong
+[ ] Candle close confirmation
+[ ] Entry near key level
+[ ] Risk : Reward ≥ 1:2
+
+RISK RULES:
+[ ] SL predefined
+[ ] Risk per trade ≤ 1%
+[ ] Max 2 trades allowed today
+
+PSYCHOLOGY CHECK:
+[ ] No revenge trading
+[ ] No FOMO
+[ ] Calm & focused
+
+POST-TRADE:
+[ ] Trade screenshot saved
+[ ] Journal updated
+[ ] Loss analysis done (if loss)
+
+FINAL DECISION:
+→ TRADE ALLOWED / NO TRADE
