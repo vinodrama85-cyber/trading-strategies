@@ -1,0 +1,30 @@
+TIMEFRAME: 5 MIN
+
+MARKET:
+- BankNifty
+
+SETUP:
+- Identify previous high & low
+- Liquidity sweep near high/low
+- Wait for strong rejection
+
+ENTRY RULES:
+- Buy above high after sweep
+- Sell below low after sweep
+- Entry only on candle close
+
+STOP LOSS:
+- Below sweep candle (Buy)
+- Above sweep candle (Sell)
+
+TARGET:
+- Minimum Risk : Reward = 1:2
+- Partial booking at 1:1
+
+NO TRADE ZONE:
+- Sideways market
+- Low volume candles
+
+NOTE:
+- Max 2 trades per day
+- Risk per trade 1%
