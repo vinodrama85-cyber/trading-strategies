@@ -1,0 +1,22 @@
+DATE:
+MARKET: BankNifty
+TIMEFRAME: 5 Min
+
+SETUP USED:
+- Liquidity Sweep + Breakout
+
+ENTRY PRICE:
+STOP LOSS:
+TARGET:
+
+RESULT:
+- Win / Loss
+- Points:
+
+MISTAKE (if any):
+- Late entry / Early entry / Overtrade
+
+SCREENSHOT LINK (optional):
+
+LEARNING:
+- What to improve next time
