@@ -1,0 +1,31 @@
+SIDEWAYS MARKET FILTER – BANKNIFTY (5 MIN)
+
+RULE-1: RANGE CHECK
+- Last 20 candles ka high–low < 0.25% of price
+→ SIDEWAYS (NO TRADE)
+
+RULE-2: EMA COMPRESSION
+- 20 EMA, 50 EMA, 100 EMA ek dusre ke paas ho
+- Price EMAs ke beech me ho
+→ SIDEWAYS
+
+RULE-3: FAKE BREAKOUT ZONE
+- Multiple wicks both sides
+- Candle body small, wicks large
+→ SIDEWAYS
+
+RULE-4: VOLUME FILTER
+- Current volume < 70% of 20-candle average
+→ NO TRADE
+
+RULE-5: HTF CONFIRMATION
+- 15m / 30m chart bhi range me ho
+→ NO TRADE
+
+FINAL RULE:
+- Agar 2 ya zyada rules TRUE ho
+→ STRICT NO TRADE
+
+NOTE:
+- Sideways market = SL machine
+- Best trades come after range breakout
