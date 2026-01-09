@@ -1,0 +1,45 @@
+LOSS ANALYSIS – BANKNIFTY (5 MIN)
+
+DATE:
+TRADE TYPE: Buy / Sell
+
+SETUP USED:
+- Liquidity Sweep
+- Breakout
+- Reversal
+- Other
+
+MARKET CONDITION:
+- Trending
+- Sideways
+- High volatility
+- Low volume
+
+ENTRY QUALITY:
+- Early
+- Perfect
+- Late
+
+STOP LOSS:
+- Too tight
+- Correct
+- Too wide
+
+REASON OF LOSS:
+- Fake breakout
+- No HTF confirmation
+- Traded in sideways market
+- Overconfidence
+- Overtrading
+- Emotional entry
+
+DID I FOLLOW RULES? (Yes / No)
+- Entry rule followed?
+- SL rule followed?
+- RR respected?
+
+WHAT I LEARNED:
+- One line clear lesson
+
+ACTION FOR NEXT TRADE:
+- What I will NOT repeat
